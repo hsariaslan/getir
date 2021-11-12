@@ -1,6 +1,6 @@
 # getir.com homepage clone
 
-This project is [getir.com](https://getir.com/) homepage clone. Created with ReactJS and TailwindCSS
+This project is homepage clone of [getir.com](https://getir.com/). Created with [ReactJS](https://reactjs.org/) and [TailwindCSS](https://tailwindcss.com/).
 
 ## Setup
 
