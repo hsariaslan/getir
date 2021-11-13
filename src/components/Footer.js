@@ -71,6 +71,13 @@ export default function Footer() {
                 Bilgi Toplumu Hizmetleri
               </a>
             </div>
+            <div className="w-1 h-1 rounded-full bg-primary"></div>
+            <div>
+              <span className="text-gray-500 text-sm">Developed with 💖 by </span>
+              <a href="https://github.com/hsariaslan" target="_blank" className="text-sm text-primary text-opacity-90">
+                Hakan Sarıaslan
+              </a>
+            </div>
           </div>
           <div>
             <div className="flex gap-x-2">
