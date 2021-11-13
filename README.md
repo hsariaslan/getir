@@ -2,6 +2,8 @@
 
 This project is homepage clone of [getir.com](https://getir.com/). Created with [ReactJS](https://reactjs.org/) and [TailwindCSS](https://tailwindcss.com/).
 
+![](https://github.com/hsariaslan/getir/blob/master/public/images/screenshot.png?raw=true)
+
 ## Setup
 
 You need to install dependencies.
